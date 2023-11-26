@@ -1,4 +1,3 @@
-# Hosted Link - https://apni-coding.github.io/Kratin-Assignment/
 # Sunita's Health Companion - A React App for Elderly Care
 
 ## Introduction
