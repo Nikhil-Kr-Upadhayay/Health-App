@@ -37,7 +37,17 @@ The React app will be built using the following technologies:
 4. Access the app in your web browser at `http://localhost:3000`.
 
 ## Screenshots
+![Screenshot 2023-11-26 183206](https://github.com/Nikhil-Kr-Upadhayay/Health-App/assets/135442033/8a0a4dce-2a27-4c68-ab4e-5b8231a0e994)
 
+![Screenshot 2023-11-26 183459](https://github.com/Nikhil-Kr-Upadhayay/Health-App/assets/135442033/72649a67-db08-42d6-afea-c0a6b9144f6b)
+
+![Screenshot 2023-11-26 183616](https://github.com/Nikhil-Kr-Upadhayay/Health-App/assets/135442033/ad95500f-46e6-4395-93d5-7c9294f16d22)
+
+![Screenshot 2023-11-26 183807](https://github.com/Nikhil-Kr-Upadhayay/Health-App/assets/135442033/67df7a01-e9a7-4c45-986b-972d42ffdc2e)
+
+![Screenshot 2023-11-26 183855](https://github.com/Nikhil-Kr-Upadhayay/Health-App/assets/135442033/9bdedb2b-2057-460f-a6dd-412ab9bf8680)
+
+![Screenshot 2023-11-26 183953](https://github.com/Nikhil-Kr-Upadhayay/Health-App/assets/135442033/1eb0fae9-240b-4c49-a2d0-85340b8dfa09)
 
 
 ## Future Enhancements
